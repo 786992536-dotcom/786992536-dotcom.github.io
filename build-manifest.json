@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-06-18T07:47:29.742Z",
+  "builtAt": "2026-06-18T07:54:15.544Z",
   "source": "web_build",
   "chunkSize": 8388608,
   "cachePolicy": "hashed-parts-browser-cache",
@@ -17,14 +17,14 @@
   },
   "pck": {
     "parts": [
-      "index.pck.eac54945a50b306d.part.aa",
-      "index.pck.eac54945a50b306d.part.ab",
-      "index.pck.eac54945a50b306d.part.ac",
-      "index.pck.eac54945a50b306d.part.ad",
-      "index.pck.eac54945a50b306d.part.ae"
+      "index.pck.1ba6f2fab9e075bf.part.aa",
+      "index.pck.1ba6f2fab9e075bf.part.ab",
+      "index.pck.1ba6f2fab9e075bf.part.ac",
+      "index.pck.1ba6f2fab9e075bf.part.ad",
+      "index.pck.1ba6f2fab9e075bf.part.ae"
     ],
-    "size": 38142972,
-    "sha256": "eac54945a50b306d257a76a4ab3401362de068a95e2069b562d51179fc651e2a",
+    "size": 36485408,
+    "sha256": "1ba6f2fab9e075bf5cf757b6563dcbb0210f68e3bdcad1611f6fb03b85317e25",
     "chunkSize": 8388608
   }
 }
