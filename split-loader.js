@@ -42,12 +42,12 @@
 
 	window.loadThunderRiftPack = async function loadThunderRiftPack(onProgress) {
 		const buffers = await loadParts('Game data', [
-	"index.pck.a4419c67f52f12c4.part.aa",
-	"index.pck.a4419c67f52f12c4.part.ab",
-	"index.pck.a4419c67f52f12c4.part.ac",
-	"index.pck.a4419c67f52f12c4.part.ad",
-	"index.pck.a4419c67f52f12c4.part.ae"
-], onProgress, 36485232);
+	"index.pck.eac54945a50b306d.part.aa",
+	"index.pck.eac54945a50b306d.part.ab",
+	"index.pck.eac54945a50b306d.part.ac",
+	"index.pck.eac54945a50b306d.part.ad",
+	"index.pck.eac54945a50b306d.part.ae"
+], onProgress, 38142972);
 		return new Blob(buffers, { type: 'application/octet-stream' }).arrayBuffer();
 	};
 }());
